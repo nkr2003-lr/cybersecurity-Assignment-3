@@ -92,4 +92,4 @@ network-scanning-tools/
     ├── arp_output.png
     ├── nmap_output.png
 Conclusion
-This project demonstrates how Python can be used to automate network scanning tools like ping, ARP, and
+This project demonstrates how Python can be used to automate network scanning tools like ping, ARP, and nmap
